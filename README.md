@@ -1,1 +1,1 @@
-# ROR
+# Repository dedicated to my Ruby on Rails Studys
